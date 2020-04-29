@@ -45,16 +45,16 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 
 #### RANKED
 
- 1. PLAYABLE yang ini harus
- 2. Less Unecessary Overstream note yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
- 3. Unique & Variative patterns yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
- 4. METADATA macem OD AR HP jadi bahan pertimbangan w juga
+ 1. **PLAYABLE** yang ini harus, yang dimaksud playable yaitu bisa dimainkan paling tidak oleh casual player (player dengan kemampuan rata rata dan tidak mengejar skill/pada dasarnya bermain hanya untuk have fun
+ 2. **Less Unecessary Overstream note** yang note satu line stream numpuk sampe banyak note, disini w perlu mainin bentar buat ceknya
+ 3. **Unique & Variative patterns** yang jelas ga terlalu monoton tapi ini optional, masih bisa w pertimbangkan
+ 4. **METADATA** macem OD AR HP jadi bahan pertimbangan w juga
 
 #### LOVED
 
- 1. Unique Patterns is a big plus
- 2. Playable Monotone and interesting patterns (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainin)
- 3. METADATA gak terlalu diperhatikan disini selama gak menggangu gameplay
+ 1. **Unique Patterns is a big plus**
+ 2. **Playable Monotone and interesting patterns** (monoton ga masalah disini, yang penting patternnya menarik dan somehow enak dimainkan)
+ 3. _**METADATA**_ gak terlalu diperhatikan disini selama gak menggangu gameplay
 
 #### NOTE
 
@@ -62,6 +62,8 @@ Semua map kemungkinan besar akan masuk ranked kecuali ada ciri - ciri yang diseb
 - unplayable sudah pasti denied kecuali ada yang bisa pass (masuk kategori LOVED)
 - training map pack akan masuk ke kategori LOVED sama seperti rules osu!mania
 - dikarenakan RC CTB saya sedikit lebih fleksibel dari official, chart dengan Length dibawah 5 menit walau ada hanya kurang dari 2 difficulty yang memiliki kriteria ranked akan dapat kami approve dengan bedasar pertimbangan tertulis diatas
+- Aspire type map akan masuk **LOVED** (poin 2 dari LOVED criteria)
+- mengenai Playable, tidak harus bisa FC tapi bisa dibilang pattern dari chart yang dimaksud adalah masuk akal bagi mereka (BAT ctb disini termasuk casual player h3h3
 
 <h1><i class="comment icon"></i> Taiko</h1>
 
